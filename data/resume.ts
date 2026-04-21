@@ -23,7 +23,7 @@ export const resumeData = {
     },
     {
       company: "KPR Info Solution",
-      role: "QA Engineer",
+      role: "Quality Analyst",
       period: "Feb 2023 - Sep 2024",
       current: false,
       description:
