@@ -1,9 +1,9 @@
 export const resumeData = {
   personal: {
     name: "Karthika Ravichandran",
-    title: "Quality Analyst",
+    title: "QA Engineer",
     tagline: "Transforming Software Quality with Manual & Automation Testing Excellence",
-    bio: "Results-driven Quality Analyst with 3+ years of expertise in both manual and automation testing, specializing in Selenium WebDriver with Python. Proficient in API testing using Postman, defect tracking with JIRA, and implementing robust test strategies across web and mobile platforms. Passionate about delivering bug-free, high-performance applications through comprehensive test planning, regression testing, and continuous quality improvement. Currently expanding expertise in Playwright and modern automation frameworks.",
+    bio: "Results-driven QA Engineer with 3+ years of expertise in both manual and automation testing, specializing in Selenium WebDriver with Python. Proficient in API testing using Postman, defect tracking with JIRA, and implementing robust test strategies across web and mobile platforms. Passionate about delivering bug-free, high-performance applications through comprehensive test planning, regression testing, and continuous quality improvement. Currently expanding expertise in Playwright and modern automation frameworks.",
     contact: {
       phone: "+91 6382894801",
       email: "rkarthika924@gmail.com",
@@ -14,7 +14,7 @@ export const resumeData = {
   experience: [
     {
       company: "Hyperready Technology",
-      role: "Quality Analyst",
+      role: "QA Engineer",
       period: "Oct 2024 - Present",
       current: true,
       description:
@@ -23,7 +23,7 @@ export const resumeData = {
     },
     {
       company: "KPR Info Solution",
-      role: "Quality Analyst",
+      role: "QA Engineer",
       period: "Feb 2023 - Sep 2024",
       current: false,
       description:
